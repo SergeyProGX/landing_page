@@ -1,0 +1,132 @@
+.menu{
+	width: 18%;
+	position: fixed;
+	background-color: #45015d;
+	border-radius: 15px;
+	height: 99%;
+	margin-top: 2.5px;
+}
+body {
+	margin: 0;
+}
+.menu a{
+	text-decoration: none;
+	color: white;
+	display: block;
+	margin-left: 25px;
+	margin-bottom: 15px;
+}
+.menu h1{
+	color: white;
+	margin-left:15px;
+}
+.main{
+	margin-left: 30%;
+
+}
+hr {
+	width: 68%;
+	margin-right: 100%;
+	border-radius: 6px;
+	border-style: solid;
+	border-color: purle;
+	height: 4px;
+	background-color:purple;
+}
+.pic{
+	border-style: hidden;
+	border-radius: 8px;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	display: inline-block;
+	width: 100%;
+}
+.menu h1{
+	display: inline-block;
+	margin: 0;
+	padding: 0;
+}			
+.inv{
+	visibility: hidden																																																							;
+}
+.design{
+	display: inline-block;
+	width: 30%;
+	padding: 8px 8px;
+}
+.des{
+	background-color:lightgrey;
+	padding: 4px;
+	text-align: center;
+	display: inline-block;
+}
+.grey{
+	color: grey;
+}
+.hl{
+	width: 300px;
+	margin-right: 100%;
+	background-color: grey;
+	height: 0.10px;
+	border-color: grey;
+	border-radius: 12px;
+}
+.package{
+	display: inline-block;
+	max-width: 400px;
+	background-color: ghostwhite;
+	text-align: center;
+	border-style: hidden;
+	border-radius: 12px;
+	vertical-align: middle;
+	padding: 0 8px;
+	box-sizing: border-box;
+	margin: 0 8px;
+}
+.package h1{
+	background-color: purple;
+	border-style: hidden;
+	border-radius: 12px;
+	margin-top: 2px;
+}
+div .h{
+	background-color: ghostwhite;
+}
+.p2 {
+	width: 45%;
+	border-style: hidden;
+	border-radius: 8px;
+}
+input{
+	width: 64%;
+}
+.send{
+	background-color: purple;
+	border-style: hidden;
+	border-radius: 6px;
+}
+.bas{
+	color: purple;
+	text-decoration: none;
+	background-color: white;
+	border-style: hidden;
+	border-radius: 8px;
+	display: inline-block;
+	padding: 2px;
+}
+.pro{
+	color: white;
+	background-color: orange;
+	text-decoration: none;
+	border-style: hidden;
+	border-radius: 8px;
+	display: inline-block;
+	padding: 2px;
+}
+.power{
+	text-align: right;
+	background-color: lightgrey;
+	position: relative;
+	left: 0px;
+	width: 100%;
+}
